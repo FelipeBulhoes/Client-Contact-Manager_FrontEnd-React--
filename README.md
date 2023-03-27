@@ -22,5 +22,5 @@ Run server
 npm run dev || yarn dev 
 ```
 
-###Tech stack
+### Tech stack
 Frontend: React, styled-components, router, yup, hook-form and Typescript.
