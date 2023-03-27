@@ -3,6 +3,8 @@ A simple FullStack project to register clients and his contacts. This repository
 
 ## Running locally
 
+First run the API of this application, you can find it on my profile.
+
 Clone the project into your machine
 ```
 git clone git@github.com:FelipeBulhoes/Client-Contact-Manager_FrontEnd-React--.git
